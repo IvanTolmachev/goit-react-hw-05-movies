@@ -30,7 +30,7 @@ export const Item = styled.li`
   padding: 20px;
   width: 100%;
   background-color: #20b2aa;
-  border-radius: 20px;
+  border-radius: 10px;
   box-sizing: border-box;
   @media screen and (min-width: 768px) {
     width: 375px;
@@ -48,5 +48,5 @@ export const Box = styled.div`
 `;
 
 export const Img = styled.img`
-  border-radius: 20px;
+  border-radius: 10px;
 `;

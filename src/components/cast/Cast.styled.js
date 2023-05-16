@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const Img = styled.img`
   width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
   margin-top: 10px;
 `;
 
@@ -20,7 +20,7 @@ export const Item = styled.li`
   padding: 15px;
   width: 200px;
   background-color: #20b2aa;
-  border-radius: 20px;
+  border-radius: 10px;
   margin-top: 20px;
   text-align: center;
 `;

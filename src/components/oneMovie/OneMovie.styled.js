@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const ImgTag = styled.img`
   width: 100%;
   height: auto;
-  border-radius: 20px;
+  border-radius: 10px;
   @media screen and (min-width: 768px) {
     width: 320px;
   }

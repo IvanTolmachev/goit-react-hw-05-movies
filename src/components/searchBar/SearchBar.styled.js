@@ -8,7 +8,7 @@ export const Form = styled.form`
   width: 100%;
   max-width: 600px;
   background-color: #fff;
-  border-radius: 20px;
+  border-radius: 10px;
   overflow: hidden;
 `;
 
@@ -67,7 +67,7 @@ export const GoBackButton = styled.button`
   height: 40px;
   color: #20b2aa;
   background-color: #1e2a06;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: 5px;
   font-size: 20px;
 `;
